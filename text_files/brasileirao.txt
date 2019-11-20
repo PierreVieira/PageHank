@@ -1,0 +1,142 @@
+Santos,Fluminense
+Atletico Paranaense,Bahia
+Vasco da Gama,Palmeiras
+Sao Paulo,Cruzeiro
+Sport,Ponte Preta
+Botafogo,Gremio
+Atletico Goianiense,Coritiba
+Coritiba,Santos
+Atletico Goianiense,Flamengo
+Palmeiras,Chapecoense
+Bahia,Vasco da Gama
+Atletico Mineiro,Fluminense
+Atletico Paranaense,Gremio
+Vitoria,Corinthians
+Ponte Preta,Botafogo
+Avai,Sao Paulo
+Fluminense,Vasco da Gama
+Palmeiras,Sao Paulo
+Vitoria,Coritiba
+Santos,Cruzeiro
+Atletico Goianiense,Corinthians
+Gremio,Sport
+Bahia,Botafogo
+Avai,Chapecoense
+Atletico Paranaense,Coritiba
+Vitoria,Fluminense
+Santos,Corinthians
+Sport,Avai
+Vasco da Gama,Gremio
+Sao Paulo,Ponte Preta
+Cruzeiro,Chapecoense
+Atletico Goianiense,Bahia
+Avai,Atletico Mineiro
+Palmeiras,Coritiba
+Botafogo,Santos
+Flamengo,Sport
+Vasco da Gama,Corinthians
+Vitoria,Sao Paulo
+Ponte Preta,Atletico Goianiense
+Chapecoense,Gremio
+Cruzeiro,Bahia
+Fluminense,Palmeiras
+Sport,Vasco da Gama
+Sao Paulo,Corinthians
+Atletico Mineiro,Vitoria
+Chapecoense,Ponte Preta
+Atletico Goianiense,Cruzeiro
+Atletico Paranaense,Santos
+Bahia,Gremio
+Atletico Mineiro,Atletico Paranaense
+Avai,Atletico Goianiense
+Ponte Preta,Flamengo
+Palmeiras,Santos
+Cruzeiro,Corinthians
+Vasco da Gama,Chapecoense
+Fluminense,Gremio
+Atletico Goianiense,Atletico Paranaense
+Avai,Vasco da Gama
+Sao Paulo,Atletico Mineiro
+Bahia,Palmeiras
+Chapecoense,Botafogo
+Sport,Vitoria
+Vitoria,Santos
+Atletico Goianiense,Palmeiras
+Vasco da Gama,Botafogo
+Avai,Fluminense
+Sao Paulo,Atletico Paranaense
+Cruzeiro,Ponte Preta
+Bahia,Corinthians
+Chapecoense,Flamengo
+Coritiba,Gremio
+Santos,Sport
+Atletico Goianiense,Vasco da Gama
+Coritiba,Cruzeiro
+Vitoria,Atletico Paranaense
+Gremio,Corinthians
+Ponte Preta,Palmeiras
+Bahia,Flamengo
+Chapecoense,Atletico Mineiro
+Botafogo,Avai
+Gremio,Palmeiras
+Sao Paulo,Flamengo
+Botafogo,Corinthians
+Cruzeiro,Atletico Mineiro
+Atletico Paranaense,Sport
+Atletico Goianiense,Vitoria
+Vasco da Gama,Flamengo
+Ponte Preta,Corinthians
+Gremio,Avai
+Palmeiras,Cruzeiro
+Sao Paulo,Santos
+Coritiba,Sport
+Atletico Mineiro,Santos
+Ponte Preta,Bahia
+Fluminense,Botafogo
+Palmeiras,Corinthians
+Atletico Paranaense,Cruzeiro
+Vitoria,Vasco da Gama
+Flamengo,Gremio
+Chapecoense,Sport
+Avai,Coritiba
+Vitoria,Palmeiras
+Sao Paulo,Chapecoense
+Ponte Preta,Gremio
+Atletico Goianiense,Atletico Mineiro
+Coritiba,Fluminense
+Sport,Botafogo
+Vitoria,Gremio
+Chapecoense,Santos
+Coritiba,Ponte Preta
+Vasco da Gama,Sao Paulo
+Atletico Mineiro,Bahia
+Atletico Goianiense,Sport
+Vitoria,Chapecoense
+Coritiba,Flamengo
+Bahia,Santos
+Fluminense,Corinthians
+Sport,Palmeiras
+Cruzeiro,Avai
+Atletico Paranaense,Ponte Preta
+Atletico Mineiro,Vasco da Gama
+Botafogo,Sao Paulo
+Avai,Palmeiras
+Chapecoense,Atletico Goianiense
+Coritiba,Atletico Mineiro
+Bahia,Sport
+Vasco da Gama,Atletico Paranaense
+Atletico Mineiro,Corinthians
+Ponte Preta,Vitoria
+Flamengo,Santos
+Botafogo,Palmeiras
+Atletico Goianiense,Gremio
+Sao Paulo,Coritiba
+Avai,Atletico Paranaense
+Vasco da Gama,Cruzeiro
+Sport,Corinthians
+Atletico Goianiense,Fluminense
+Flamengo,Vitoria
+Palmeiras,Atletico Paranaense
+Chapecoense,Coritiba
+Atletico Mineiro,Gremio
+Sao Paulo,Bahia
