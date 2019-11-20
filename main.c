@@ -93,8 +93,8 @@ void CalculaPageRank(Grafo *grafo, float dumping_factor){
 
 int main(){
     Grafo grafo;
-    //char arquivo[] = "text_files/brasileirao.txt";
-    char arquivo[] = "text_files/grafo.txt";
+    char arquivo[] = "text_files/brasileirao.txt";
+    //char arquivo[] = "text_files/grafo.txt";
     obtemVertices(&grafo,arquivo);
     criaMatrizAdjacencia(&grafo,arquivo);
 

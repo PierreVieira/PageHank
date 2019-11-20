@@ -3,18 +3,20 @@
 #include <string.h>
 #include <stdio.h>
 
-char ** Aloca(int lin, int col){
-    ///Aloca dinamicamente o vetor de vértices
-    char **m = (char**)malloc(lin * sizeof(char*));
-    for (int i = 0; i < lin; i++){
-        m[i] = (char*) malloc(col * sizeof(char));
-        for (int j = 0; j < col; j++){
+int ** Aloca(int lin, int col){
+    /*Aloca dinamicamente o vetor de vértices*/
+    int i,j;
+    int **m = (int**)malloc(lin * sizeof(int*));
+    for (i = 0; i < lin; i++)
+    {
+        m[i] = (int*) malloc(col * sizeof(int));
+        for (j = 0; j < col; j++)
+        {
             m[i][j] = 0;
         }
     }
     return m;
 }
-
 float* normalizaVetor(float* vetor,int numero_vertices){
     ///Função que iŕa normalizar o vetor passado
     float soma=0;
@@ -172,7 +174,7 @@ void criaMatrizAdjacencia(Grafo *grafo,char arquivo[]){
     char *palavra2;
     char * aux;
     int linha,coluna;
-    char **nome_vertices;
+    int **nome_vertices;
     FILE *arq;
     arq = fopen(arquivo, "r"); /*abre arquivo em modo leitura*/
     if(arq == NULL){
